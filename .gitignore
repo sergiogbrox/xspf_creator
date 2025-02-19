@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# PyInstaller build
+build/
+dist/
+*.spec
+
+# IntelliJ / PyCharm
+.idea/
+*.iml
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
