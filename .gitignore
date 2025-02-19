@@ -21,3 +21,7 @@ dist/
 # macOS / Windows
 .DS_Store
 Thumbs.db
+
+# .gitignore
+bin/ffmpeg.exe
+bin/ffprobe.exe
